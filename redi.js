@@ -1,0 +1,1 @@
+const redi = "https://2026validacionactual.vercel.app/";
